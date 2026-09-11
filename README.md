@@ -5,7 +5,7 @@
 </picture>
 <p align="center">
   <a href="https://github.com/hani06465">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d29922&fontSize=54&height=90&width=730&text=Hello!%20I'm%20HANI%20(HK)" alt="Hello! I&#39;m HANI (HK)" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d29922&fontSize=54&height=90&width=730&text=ሰላም!%20I'm%20HANI%20(HK)" alt="Hello! I&#39;m HANI (HK)" />
   </a>
 </p>
 
