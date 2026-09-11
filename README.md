@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="My ASCII Profile Art" src="light_mode.svg">
+</picture>
 <p align="center">
   <a href="https://github.com/hani06465">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d29922&fontSize=54&height=90&width=730&text=Hello!%20I'm%20HANI%20(HK)" alt="Hello! I&#39;m HANI (HK)" />
